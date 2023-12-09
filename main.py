@@ -78,4 +78,4 @@ async def mute(ctx, user: disnake.Member, duration: int):
     else:
         await ctx.send("У вас нет разрешений на управление ролями.")
 
-bot.run("MTE4MzA3MzgyMTg1OTc5NTAzNQ.GfZ2Bm.X1rhYj_dBycckJCEeHRdOZ6hJCN67-XNPhJG7Y")
+bot.run("token here")
